@@ -1,6 +1,7 @@
 ---
 permalink: /
 ---
+clone项目或者pull项目时候 下载的是template分支不是main分支
 视频教程网址：https://www.bilibili.com/video/BV1LQ4y1V79r/?spm_id_from=333.1007.tianma.3-2-10.click&vd_source=209132b22db008e63a96e8e5d4c649ff
 # 鱼皮的编程宝典
 
