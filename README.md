@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-
+视频教程网址：https://www.bilibili.com/video/BV1LQ4y1V79r/?spm_id_from=333.1007.tianma.3-2-10.click&vd_source=209132b22db008e63a96e8e5d4c649ff
 # 鱼皮的编程宝典
 
 > 贴心的编程学习路线，全面的编程知识百科
